@@ -1,5 +1,5 @@
 ---
-Title: Leads
+Title: Clientes Potenciales
 Weight: 100
 ---
 
@@ -7,126 +7,120 @@ Weight: 100
 
 :imagesdir: ./../../../images/en/user
 
-= Leads
+= Clientes potenciales
 
-In SuiteCRM a Lead is an unqualified contact usually generated from some
-form of marketing related event, for example it could be a person that
-has filled out a form on your website or someone that you met at a trade
-show and you are not sure yet if they have buying authority. Once a Lead
-is qualified and converted then it can be split into three parts; a
-Contact once you have established 'Who' it is, an Account when you know
-'Where' they work and an Opportunity once it is known 'What' they might
-buy.
+En SuiteCRM un Cliente Potencial es un contacto no cualificado generado normalmente por alguna forma de evento relacionado con el marketing, por ejemplo, podría ser una persona que ha llenado un formulario en su sitio web o alguien que usted conoció en un evento comercial y aún no está seguro de si tienen autoridad para comprar. Una vez que un cliente potencial es calificado y convertido entonces puede ser dividido en tres partes: un Contacto una vez que haya establecido 'Quién' es, una Cuenta cuando sepa "Dónde" trabajan y una Oportunidad una vez que se sabe "Qué" pueden comprar.
 
-== Leads Actions
+== Acciones de Clientes Potenciales
 
-You can access the Leads actions from the Leads module menu drop down or
-via the Sidebar. The Leads actions are as follows:
+Puede acceder a las acciones de Clientes Potenciales desde el menú desplegable del módulo Clientes Potenciales o
+a través de la barra lateral. Las acciones de Clientes Potenciales son las siguientes:
 
-* *Create Lead* – A new form is opened in Edit View to allow you to create
-a new Account record.
-* *View Leads* – Redirects you to the List View for the Leads module. This
-allows you to search and list Lead records.
-* *Import Leads* – Redirects you to the Import Wizard for the Leads
-module. For more information, see link:/user/introduction/user-interface/#_importing_records[Importing Records].
+* *Crear Cliente Potencial* - Se abre un nuevo formulario en la vista Editar para permitirle crear
+un nuevo registro de Cuenta.
+* *Ver Clientes Potenciales* - Le redirige a la Vista de Lista para el módulo Clientes Potenciales. Este
+le permite buscar y listar registros de clientes potenciales.
+* *Importar clientes potenciales* - Le redirige al Asistente de Importación para los clientes potenciales
+módulo. Para obtener más información, consulte el link:/user/introduction/user-interface/#_importing_records[Importing Records].
 
-To view the full list of fields available when creating a Lead, See
-link:/user/appendix-a/#_leads_field_list[Leads Field List].
+Para ver la lista completa de campos disponibles al crear un cliente potencial, véase
+link:/usuario/apéndice a/#_leads_field_list[Lista del campo Leads].
 
-== Managing Leads
+== Gestión de clientes potenciales
 
-* To sort records on the Leads List View, click any column title which
-is sortable. This will sort the column either ascending or descending.
-* To search for a Leads, see the link:/user/introduction/user-interface/#_search[Search] section of this
-user guide.
-* To update some or all the Leads on the List View, use the Mass Update
-panel as described in the link:/user/introduction/user-interface/#_mass_updating_records[Mass Updating Records] section of this user guide.
-* To duplicate a Lead, you can click the Duplicate button on the Detail
-View and then save the duplicate record.
-* To merge duplicate Leads, select the records from the Leads List View,
-click the Merge link in the Actions drop-down list, and progress through
-the merge process. For more information on Merging Duplicates, see the
-link:/user/introduction/user-interface/#_merging_records[Merging Records] section of this user guide.
-* To delete one or multiple Leads, you can select multiple records from
-the List View and click delete. you can also delete a Lead from the
-Detail View by clicking the Delete button. For a more detailed guide on
-deleting records, see the link:/user/introduction/user-interface/#_deleting_records[Deleting Records]
-section of this user guide.
-* To view the details of a Lead, click the Lead Name in the List View.
-This will open the record in Detail View.
-* To edit the Lead details, click Edit icon within the List View or
-click the edit button on the Detail View, make the necessary changes,
-and click Save.
-* For a detailed guide on importing and exporting Leads, see the
-link:/user/introduction/user-interface/#_importing_records[Importing Records] and
-link:/user/introduction/user-interface/#_exporting_records[Exporting Records] sections of this user guide.
-* To track all changes to audited fields, in the Lead record, you can
-click the View Change Log button on the Lead Detail View or Edit View.
+* Para ordenar registros en la vista Lista de clientes potenciales, haga clic en cualquier título de columna que
+es clasificable. Esto ordenará la columna de forma ascendente o descendente.
+* Para buscar un cliente potencial, consulte link:/usuario/introducción/interfaz de usuario/#_search[Buscar] de esta sección.
+guía de usuario.
+* Para actualizar algunos o todos los clientes potenciales en la vista de lista, utilice la función Actualización en masa
+como se describe en el link:/usuario/introducción/interfaz de usuario/#_mass_updating_records[Registros de actualización en masa] de esta guía del usuario.
+* Para duplicar un cliente potencial, puede hacer clic en el botón Duplicar en el menú Detalle
+Visualizar y, a continuación, grabar el registro duplicado.
+* Para fusionar clientes potenciales duplicados, seleccione los registros en la vista Lista de clientes potenciales,
+haga clic en el enlace Fusionar en la lista desplegable Acciones y avance a través de
+el proceso de fusión. Para obtener más información sobre la fusión de duplicados, véase la sección
+link:/usuario/introducción/interfaz de usuario/#_merging_records[Registros de fusión] de esta guía del usuario.
+* Para eliminar uno o más clientes potenciales, puede seleccionar varios registros de
+la Vista de Lista y haga clic en Eliminar. También puede eliminar un cliente potencial desde el menú desplegable
+Vista detallada haciendo clic en el botón Eliminar. Para una guía más detallada sobre
+borrar registros, vea el link:/usuario/introducción/interfaz de usuario/#_suprimir_registros[Borrar registros].
+de esta guía del usuario.
+* Para ver los detalles de un cliente potencial, haga clic en el nombre del cliente potencial en la vista de lista.
+Esto abrirá el registro en la Vista detallada.
+* Para editar los detalles del cliente potencial, haga clic en el icono Editar dentro de la Vista de Lista o bien
+haga clic en el botón de edición en la Vista detallada y realice los cambios necesarios,
+y haga clic en Guardar.
+* Para obtener una guía detallada sobre la importación y exportación de clientes potenciales, consulte la sección
+link:/usuario/introducción/interfaz de usuario/#_importing_records[Importando Registros] y
+link:/usuario/introducción/interfaz de usuario/#_exportando_registros[Exportando Registros] de esta guía del usuario.
+* Para realizar un seguimiento de todos los cambios en los campos auditados, en el registro de clientes potenciales, puede
+haga clic en el botón Ver registro de cambios en la vista detallada de clientes potenciales o en la vista Editar.
 
-== Converting a Lead
+== Conversión de un cliente potencial
 
-Once enough information is gathered about a Lead, then the Lead can be
-progressed to the next Sales stage and the Lead can be converted into a
-Contact, Account and Opportunity. The way in which a Lead is converted
-depends on how the System Administrator has set up SuiteCRM. To convert
-a Lead with the default SuiteCRM setup you have to click on an
-individual Lead record to access the Detail View of the Lead and click
-on the arrow next to the Other button, then click on *'Convert Lead'* from
-the drop-down menu shown in the image below:
+Una vez que se recopila suficiente información sobre un cliente potencial, entonces éste puede ser
+progresado a la siguiente etapa de ventas y puede convertirse en un
+Contacto, Cuenta y Oportunidad. La forma en que se convierte un cliente potencial
+depende de cómo el Administrador del Sistema haya configurado SuiteCRM. Para convertir
+un cliente potencial con la configuración predeterminada de SuiteCRM, debe hacer clic en el botón
+Registro de cliente potencial individual para acceder a la Vista detallada del cliente potencial y haga clic en
+en la flecha junto al botón Otro, luego haga clic en *'Convertir cliente potencial'* desde
+el menú desplegable que se muestra en la imagen de abajo:
 
-image:68Converting_a_lead.png[title="Converting a Lead"]
+imagen:68Converting_a_lead.png[title="Convertir una pista"]
 
-Once you have clicked on 'Convert Lead' button then you will be taken to
-the Convert Lead page.
+Una vez que haya hecho clic en el botón `Convertir cliente potencial', se le llevará a
+la página Convertir cliente potencial.
 
-=== Convert Lead to Contact
+=== Convertir Cliente Principal en Contacto
 
-On this page you will be able to Create or Select Contact:
+En esta página podrá Crear o Seleccionar Contacto:
 
-image:69Convert_lead_to_contact.png[title="Converting a Lead to a Contact"]
+image:69Convert_lead_to_contact.png[title="Convertir una derivación en un contacto"][title="Convert_lead_to_contact.png
 
-By deselecting the checkbox next to 'Create Contact' you will be able to
-associate the Lead to an existing Contact. However, in most cases when
-converting a Lead there will be no existing Contact. Make sure the
-Create Contact checkbox is selected. Some of the fields will
-automatically be populated using the Lead information. Fill out the
-remaining relevant fields and move to the next Stage below:
+Desmarcando la casilla de verificación situada junto a `Crear contacto' podrá
+asociar el Cliente Potencial a un contacto existente. Sin embargo, en la mayoría de los casos cuando
+Si convierte un contacto, no habrá ningún contacto existente. Asegúrese de que la casilla de verificación Crear contacto está activada. Algunos de los campos
+se rellenará automáticamente utilizando la información de cliente potencial. Rellene el
+campos relevantes restantes y pasar a la siguiente Etapa:
 
-=== Convert Lead to Account
+=== Convertir cliente potencial en cuenta
 
-image:70Convert_lead_to_account.png[title="Converting a Lead to an Account"]
+imagen:70Convert_lead_to_account.png[title="Convertir un cliente potencial en una cuenta"]].
 
-To create an Account from a converted Lead you will follow the same
-process as with a Contact, some information will populate from the Lead
-automatically, just complete the rest.
+Para crear una cuenta a partir de un cliente potencial convertido, deberá seguir el mismo procedimiento
+como en el caso de un contacto, cierta información se completará desde el directorio
+automáticamente, sólo complete el resto.
 
-=== Convert Lead to Opportunity
+=== Convertir un Cliente Potencial en Oportunidad
 
-image:71Convert_lead_to_opportunity.png[title="Converting a Lead to an Opportunity"]
+imagen:71Convert_lead_to_opportunity.png[title="Convertir una pista en una oportunidad"]
 
-To create an Opportunity from a converted Lead you will follow the same
-process as with a Contact, some information will populate from the Lead
-automatically, just complete the rest.
 
-=== Other Lead Conversion Options
+Para crear una oportunidad a partir de un cliente potencial convertido, seguirás el mismo procedimiento
+como en el caso de un contacto, cierta información se completará desde el directorio
+automáticamente, sólo complete el resto.
 
-Other records can be created when converting a Lead in the same way as
-Contacts/Accounts and Opportunities.
+=== Otras Opciones de Conversión de Clientes potenciales
 
-image:72Convert_lead_options.png[title="Lead Conversion"]
+Se pueden crear otros registros al convertir un Cliente Potencial de la misma manera que
+Contactos / Cuentas y Oportunidades.
 
-After you have completed the relevant sections click btn:[Save] to
-confirm the changes.
+imagen:72Convert_lead_options.png[title="Lead Conversion"]
 
-== Duplicate Record Check
+Después de completar las secciones relevantes, haga clic en btn:[Save] para
+confirmar las modificaciones.
 
-When converting a Lead SuiteCRM will automatically check for any
-duplicate records and will return a warning if a matching record is
-found.
+== Verificación de registros duplicados
 
-image:73Duplicate_record_check.png[title="Duplicate Record Check"]
+Al convertir un Cliente Potencial, SuiteCRM comprobará automáticamente si existen
+registros duplicados y devolverá una advertencia si un registro coincidente es
+encontrado.
 
-If you find that the duplicate warning is not valid and you still wish
-to create a new record, then click btn:[Create]. Otherwise if you
-decide that the warning is correct and the record does already exist in
-the CRM then you should the *'select'* button.
+imagen:73Duplicate_record_check.png[title="Duplicate Record Check"]
+
+Si encuentra que el aviso duplicado no es válido y todavía desea
+para crear un nuevo registro, a continuación, haga clic en btn:[Crear]. De lo contrario, si
+decidir que el mensaje de advertencia es correcto y que el registro ya existe en
+el CRM entonces usted debe pulsar el botón *'select'*.
+
